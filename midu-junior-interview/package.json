@@ -1,0 +1,15 @@
+{
+  "name": "midu-junior-interview",
+  "version": "1.0.0",
+  "description": "Escribe las soluciones en el archivo `solutions/index.js` manteniendo el nombre de las funciones y sus `export`. Usa `ESModules` en tu proyecto de Node.js",
+  "main": "test-1.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "devDependencies": {
+    "supertest": "^6.3.3"
+  },
+  "author": "",
+  "license": "ISC"
+}
